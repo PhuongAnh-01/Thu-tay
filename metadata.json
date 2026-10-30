@@ -1,0 +1,7 @@
+{
+  "name": "Thư Tay Gửi Người Thương",
+  "description": "Trang thư tay lãng mạn tương tác với phong bì niêm phong sáp, kỷ niệm Polaroid, nhạc du dương và đếm ngày yêu.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
